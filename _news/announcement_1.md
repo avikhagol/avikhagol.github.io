@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 11/10/2022 - 11:24:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+<a href="https://ras.ac.uk/news-and-press/news/black-hole-discovered-firing-jet-neighbouring-galaxy"> Black hole discovered firing jet at neighbouring galaxy</a>
