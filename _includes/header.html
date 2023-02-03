@@ -117,3 +117,6 @@
       </progress>
 {%- endif %}
     </header>
+{% if site.enable_googleanalytics %}
+  {% include googleanalytics.html %}
+{%- endif %}
