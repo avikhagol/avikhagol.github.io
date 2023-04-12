@@ -18,7 +18,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Since April 2023 I am a PhD student in the Search for Milli-Lenses ([SMILE](https://www2.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio).
+I am a PhD student in the Search for Milli-Lenses ([SMILE](https://www2.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio).
+
+To expand our understanding of Dark Matter halos in the sub-galactic scale we aim to look for strong gravitational lensing candidates in radio in the milli-arcsecond regime i.e milli lenses which are possible to observe through Very Large Baseline Interferometry (VLBI).
 
 
 <!-- 
