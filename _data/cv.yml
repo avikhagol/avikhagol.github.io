@@ -4,13 +4,19 @@
     - name: Full Name
       value: Avinash Kumar
     - name: Affiliation
-      value: RAD@home Astronomy Collaboratory, IN
+      value: Institute of Astrophysics - Foundation of Research and Technology Hellas (IA - FORTH)
     - name: Languages
       value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
+    - title: PhD
+      institution: University of Crete & IA-FORTH, GR
+      year: 2023 - Present
+      description:
+        - Research supported by Eurpoean Research Council (ERC)
+
     - title: MSc Physics
       institution: University of Allahabad, Allahabad
       year: 2018
