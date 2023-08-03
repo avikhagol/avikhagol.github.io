@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am pursuing my PhD in the Search for Milli-Lenses ([SMILE](https://wwww.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio). 
+I am pursuing my PhD in the Search for Milli-Lenses ([SMILE](https://www.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio). 
 
 Our research focuses on studying Dark Matter halos within the sub-galactic scale by identifying strong gravitational lensing candidates in the milli-arcsecond regime through Very Long Baseline Interferometry (VLBI).
 
