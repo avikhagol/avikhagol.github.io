@@ -20,10 +20,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am pursuing my PhD in the Search for Milli-Lenses ([SMILE](https://www.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio). 
 
-Our research group focuses on using Very Long Baseline Interferometry (VLBI) to search for strong gravitational lensing candidates in the milli-arcsecond regime. This technique allows us to detect extremely tiny distortions in radio waves caused by massive objects like supermassive black holes. Identifying such distortions, potentially caused by sub-galactic dark matter halos, could help us test and refine our understanding of dark matter.
+Our research focuses on searching for strong milli-lensing candidates with having mass scales around that of sub-galactic Dark Matter Halos. The different Dark Matter models predict different estimation on the population of the halos in sub-galactic scales. Our results will help us test these Dark Matter models.
 
 Based on my previous research experiences in Radio Astronomy and AGN, I have honed my skills in data analysis and handling large volumes of complex data sets. I gained pivotal experience that sparked my interest in radio and AGN research through [RAD@home Astronomy Collaboratory](https://doi.org/10.1093/mnrasl/slac116) in citizen science research. This opportunity provided me with the foundational knowledge and practical skills. Later I continued to build upon my experience by taking on roles as a Junior Research Fellow for the [University of California, Berkeley SETI-Amity project](https://www.acoea.com/amity-berkeley-seti) and a Senior Project Associate funded by Indian Space Research Organization(ISRO) for the ISRO-ARIES Collaboration on the Aditya-L1 Project ([AL1SC](https://al1ssc.aries.res.in/past_members)).
 
+
+<!-- For my PhD I am living on the Crete island surrounded by the meditarrian sea, -->
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
