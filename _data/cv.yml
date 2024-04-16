@@ -62,6 +62,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/avialxee/scoobi">scoobi</a>
+      year: 2022-2023
+      description: Solar Conventionality-based Organizing Observation data ( SCOOBI ) for ARIES Nainital
+    - title: <a href="https://github.com/avialxee/setisim">setisim</a>
+      year: 2021-present
+      description: SETI synthesis imaging
     - title: <a href="https://github.com/UCBerkeleySETI/turbo_seti">turbo_seti</a>
       year: 2021-2022
       description: turboSETI -- python based SETI search algorithm.
