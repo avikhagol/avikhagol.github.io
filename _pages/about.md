@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am pursuing my PhD in the Search for Milli-Lenses ([SMILE](https://www.smilescience.info)) group under the supervision of [Dr Carolina Casadio](https://www.ia.forth.gr/people/Casadio). 
 
-The different Dark Matter models predict different estimation on the number density of the Dark Matter halos in sub-galactic scales($10^{6} \sim 10^9 M_{☉}$). Our research focuses on searching for the strong milli-lensing candidates corrosponding to compact supermassive objects in those mass ranges.
+The different Dark Matter models predict different estimation on the number density of the Dark Matter halos in sub-galactic scales( $10^{6} \sim 10^9 M_{☉}$ ). Our research focuses on searching for the strong milli-lensing candidates corrosponding to compact supermassive objects in those mass ranges.
 
 Based on my previous research experiences in Radio Astronomy and AGN, I have honed my skills in data analysis and handling large volumes of complex data sets. I gained pivotal experience that sparked my interest in radio and AGN research through [RAD@home Astronomy Collaboratory](https://doi.org/10.1093/mnrasl/slac116) in citizen science research. This opportunity provided me with the foundational knowledge and practical skills. Later I continued to build upon my experience by taking on roles as a Junior Research Fellow for the [University of California, Berkeley SETI-Amity project](https://www.acoea.com/amity-berkeley-seti) and then briefly as a Senior Project Associate funded by Indian Space Research Organization(ISRO) for the ISRO-ARIES Collaboration on the Aditya-L1 Project ([AL1SC](https://al1ssc.aries.res.in/past_members)).
 
