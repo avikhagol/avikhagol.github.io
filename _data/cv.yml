@@ -99,7 +99,7 @@
 - title: Outreach Activities
   type: time_table
   contents:
-  - year: 2024
+    - year: 2024
       items: 
         - Taught 4 lectures (online) as an expert; Advanced Python programming for the second boot camp 2024 by Nehru Planetarium Delhi 
     - year: 2022
