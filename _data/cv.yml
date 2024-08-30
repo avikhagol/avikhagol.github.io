@@ -30,8 +30,7 @@
       description:
         - Major in Physics and Computer Application(Voc.)
         
-
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Senior Project Associate
@@ -60,6 +59,35 @@
       description:
         - supported by CEBS
 
+- title: Outreach Activities/Talks
+  type: time_table
+  contents:
+    - year: Jun 2024 - Jul 2024
+      items: 
+        - Taught 4 lectures (online) as an expert; Advanced Python programming for the second boot camp 2024 by Nehru Planetarium Delhi
+    - year: Nov 2023
+      items:
+        - Taught 2 lectures on Introduction to Numpy, data processing ()
+        - “Introduction to Python for Undergrads 2023-24 (UoC)”; The sessions were aimed at the University of Crete Undergraduate students in the Department of Physics, University of Crete, Greece
+    - year: Nov 2022 - Apr 2023
+      items: 
+        - Taught 4 lectures (online) as an expert in advanced Python programming, for the Jantar Mantar Positional Astronomy Observations(JMPAO), Nehru Planetarium Delhi
+    - year: 2022
+      items: 
+        - Assisted in organising the <a href=https://al1ssc.aries.res.in/workshop-2">second Aditya-L1 Support Cell(AL1SC) Workshop</a>
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Radio Astronomy
+      items: 
+        - Very Long Baseline Interferometry(VLBI).
+        - AGN.
+        - Instrumentation and Techniques.
+    - title: Public Communication
+      items:
+        - Citizen Science with <a href="https://radathomeindia.org">RAD@home India</a>.
+        - Teaching courses with <a href="https://www.facebook.com/nehruplanetarium.newdelhi/posts/pfbid036J5SCLQ82ZabHUXXrobAj2ZKWHNt1yv3cbbiUAPjm639VX1WHB2hVfYnMkdFaYuil">Nehru Planetarium Delhi</a>, <a href="https://www.linkedin.com/posts/aliasgar-saria_astronomy-datascience-python-activity-7117558440146698241-hYBd">Spartificial</a>, .
 
 - title: Open Source Projects
   type: time_table
@@ -82,29 +110,6 @@
     - title: <a href="https://github.com/avialxee/rgbmaker">rgbmaker</a>
       year: 2021-present
       description: A python package which communicates to different astronomical services and fetches fits and numerical data.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Radio Astronomy
-      items: 
-        - Very Long Baseline Interferometry(VLBI).
-        - AGN.
-        - Instrumentation and Techniques.
-    - title: Public Communication
-      items:
-        - Citizen Science with <a href="https://radathomeindia.org">RAD@home India</a>.
-        - Teaching courses with <a href="https://www.facebook.com/nehruplanetarium.newdelhi/posts/pfbid036J5SCLQ82ZabHUXXrobAj2ZKWHNt1yv3cbbiUAPjm639VX1WHB2hVfYnMkdFaYuil">Nehru Planetarium Delhi</a>, <a href="https://www.linkedin.com/posts/aliasgar-saria_astronomy-datascience-python-activity-7117558440146698241-hYBd">Spartificial</a>, .
-
-- title: Outreach Activities
-  type: time_table
-  contents:
-    - year: 2024
-      items: 
-        - Taught 4 lectures (online) as an expert; Advanced Python programming for the second boot camp 2024 by Nehru Planetarium Delhi 
-    - year: 2022
-      items: 
-        - Assisted in organising the <a href=https://al1ssc.aries.res.in/workshop-2">second Aditya-L1 Support Cell(AL1SC) Workshop</a>
 
 - title: Other Interests
   type: list
