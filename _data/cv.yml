@@ -11,10 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Crete & IA-FORTH, GR
+    - title: PhD in Astronomy & Astrophysics
+      institution: Institute of Astrophysics - FORTH ; University of Crete.
       year: 2023 - Present
       description:
+        - The primary goal of my research is to develop an automated pipeline utilising the new CASA software and study the nature of the Supermassive Compact Objects(SMCO).
         - Research supported by European Research Council (ERC)
 
     - title: MSc Physics
@@ -23,7 +24,7 @@
       description:
         - Specialization in Electronics
         
-    - title: BSc Physics, Computer Application, Mathematics
+    - title: BSc (Physics, Computer Application, Mathematics)
       institution: University of Allahabad, Allahabad
       year: 2016
       description:
@@ -37,7 +38,7 @@
       institution: ARIES Nainital
       year: Sep 2022 - Jan 2023
       description:
-        - funded by ISRO
+        - Funded by ISRO
         - Work to help set up Aditya-L1 Support Cell(AL1SC)
         - Project is collaboration of ISRO and ARIES Nainital.
           
@@ -47,6 +48,7 @@
       description:
         - Funded by Breakthrough Listen Initiative
         - Built a semi-automatic pipeline for the SETI backend for the upgraded Giant Metrewave Radio Telescope (uGMRT) to utilise visibility data for imaging the source of interest.
+        - GMRT observation time of 3 hours accepted under DDT proposal as Principal Investigator; Cycle 42;
 
     - title: Research Intern
       institution: RAD@home Astronomy Collaboratory India
@@ -62,6 +64,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="#">vasco</a>
+      year: 2024-Present
+      description: VLBI and SMILE source based CASA Optimizations (VASCO) - not released for public use yet
+    - title: <a href="https://github.com/avialxee/alfrd">alfrd</a>
+      year: 2024-Present
+      description: Automated Logical FRamework for Dynamic script execution(ALFRD)
     - title: <a href="https://github.com/avialxee/scoobi">scoobi</a>
       year: 2022-2023
       description: Solar Conventionality-based Organizing Observation data ( SCOOBI ) for ARIES Nainital
@@ -75,28 +83,28 @@
       year: 2021-present
       description: A python package which communicates to different astronomical services and fetches fits and numerical data.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Radio Astronomy.
+    - title: Radio Astronomy
       items: 
+        - Very Long Baseline Interferometry(VLBI).
         - AGN.
         - Instrumentation and Techniques.
-    - title: Public Communication.
+    - title: Public Communication
       items:
-        - Citizen Science.
-        - Outreach Activities.
+        - Citizen Science with <a href="https://radathomeindia.org">RAD@home India</a>.
+        - Teaching courses with <a href="https://www.facebook.com/nehruplanetarium.newdelhi/posts/pfbid036J5SCLQ82ZabHUXXrobAj2ZKWHNt1yv3cbbiUAPjm639VX1WHB2hVfYnMkdFaYuil">Nehru Planetarium Delhi</a>, <a href="https://www.linkedin.com/posts/aliasgar-saria_astronomy-datascience-python-activity-7117558440146698241-hYBd">Spartificial</a>, .
+
+- title: Outreach Activities
+  type: time_table
+  contents:
+  - year: 2024
+      items: 
+        - Taught 4 lectures (online) as an expert; Advanced Python programming for the second boot camp 2024 by Nehru Planetarium Delhi 
+    - year: 2022
+      items: 
+        - Assisted in organising the <a href=https://al1ssc.aries.res.in/workshop-2">second Aditya-L1 Support Cell(AL1SC) Workshop</a>
 
 - title: Other Interests
   type: list
