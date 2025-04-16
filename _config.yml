@@ -17,7 +17,7 @@ keywords: Radio Astronomy, VLBI, Dark Matter, AGN, Big Data   # add your own key
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ☺  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://avialxee.github.io # the base hostname & protocol for your site
+url: https://avikhagol.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,13 +66,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: avialxee # your GitHub user name
+github_username: avikhagol # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: avialxee # your Twitter handle
+twitter_username: avikhagol # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: avialxee # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: 6rrwZG4AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-7994-5167 # your ORCID ID
@@ -81,7 +81,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.ia.forth.gr/people/Kumar # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -91,8 +91,8 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: avialxee # your instagram id
-facebook_id: avialxee # your facebook id
+instagram_id: avikhagol # your instagram id
+facebook_id: avikhagol # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -126,7 +126,7 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: avialxee/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo: avikhagol/al-folio      # <your-github-user-name>/<your-github-repo-name>
   repo_id: 36457781
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
