@@ -95,12 +95,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="#">vasco</a>
+    - title: <a href="https://vasco-vlbi.readthedocs.io/en/latest/pipeline.html">vasco</a>
       year: 2023-Present
-      description: VLBI and SMILE source based CASA Optimizations (VASCO) - not released for public use yet
-    - title: <a href="#">fitsidiutil</a>
-      year: 2024-Present
-      description: Python package for splitting IDIFITS file by freqid, scan, sources etc - not released for public use yet
+      description: VLBI and SMILE-based CASA Optimizations (VASCO)
     - title: <a href="https://github.com/avialxee/alfrd">alfrd</a>
       year: 2024-Present
       description: Automated Logical FRamework for Dynamic script execution(ALFRD)
