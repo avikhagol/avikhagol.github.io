@@ -18,10 +18,4 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Doctoral candidate working with **Very Long Baseline Interferometry (VLBI)**, 
-one of the highest-resolution telescope arrays on Earth to study compact radio 
-sources at kiloparsec scales.
-
-A core part of my PhD work is building [**VASCO**](https://github.com/avikhagol/vasco), 
-a fully automated VLBI calibration pipeline built on [CASA](https://casa.nrao.edu/), 
-designed to handle large-volume data without manual intervention.
+I am a Doctoral candidate working with **Very Long Baseline Interferometry (VLBI)**. A core part of my PhD work was building [**AVICA**](https://avica.readthedocs.io/), a fully automated VLBI calibration pipeline built on [CASA](https://casa.nrao.edu/), designed to handle large-volume data without manual intervention.
